@@ -24,9 +24,9 @@ Python | Opencv | Mediapipe
 ---
 
 ## 项目功能
--调用电脑默认摄像头
--人体骨骼关键点检测
--绘制骨骼连线
+-调用电脑默认摄像头  
+-人体骨骼关键点检测  
+-绘制骨骼连线  
 
 ## 运行方法
 1. 克隆仓库；`git clone https://github.com/YAHEEeee/pose_detection.git`
